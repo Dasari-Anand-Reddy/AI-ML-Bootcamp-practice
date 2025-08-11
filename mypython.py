@@ -1,1 +1,1 @@
-print("This is my First Python file.")
+This file is only for read.
